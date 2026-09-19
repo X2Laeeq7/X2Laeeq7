@@ -47,7 +47,7 @@ A Spotify-inspired music player built while learning Java, featuring music playb
 ## 📫 Find Me
 
 * 📧 **Email:** [laeeqgeduld87@gmail.com](mailto:laeeqgeduld87@gmail.com)
-* 📸 **Instagram:** [@laeeq_](https://www.instagram.com/laeeq_/)
+* 📸 **Instagram:** [@laeeq_](https://www.instagram.com/laeeq_geduld/)
 * 💻 **GitHub:** You're already here :)
 
 ---
