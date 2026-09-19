@@ -52,4 +52,4 @@ A Spotify-inspired music player built while learning Java, featuring music playb
 
 ---
 
-*Still learning, still building, and always looking for something new to figure out.* 👨‍💻
+*The goal isn't to know what works, but to understand why.* 👨‍💻
